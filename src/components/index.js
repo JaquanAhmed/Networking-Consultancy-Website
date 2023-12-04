@@ -6,10 +6,10 @@ import Contact from './Contact';
 import Footer from './Footer';
 
 export {
-  Navbar,
-  Home,
-  About,
-  Expertise,
-  Contact,
-  Footer
+  Navbar
+  // Home,
+  // About,
+  // Expertise,
+  // Contact,
+  // Footer
 }
