@@ -6,8 +6,8 @@ import Contact from './Contact';
 import Footer from './Footer';
 
 export {
-  Navbar
-  // Home,
+  Navbar,
+  Home,
   // About,
   // Expertise,
   // Contact,
