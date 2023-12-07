@@ -1,5 +1,5 @@
 const Home = () => (
-    <div className="bg-primary">
+    <div className="bg-secondary">
 
     </div>
 )
