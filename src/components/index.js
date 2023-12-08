@@ -8,7 +8,7 @@ import Footer from './Footer';
 export {
   Navbar,
   Home,
-  // About,
+  About,
   // Expertise,
   // Contact,
   // Footer

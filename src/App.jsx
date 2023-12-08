@@ -1,12 +1,12 @@
 import { BrowserRouter } from "react-router-dom"
-import Navbar from "./components/Navbar"
-import Home from "./components/Home"
+import { Navbar, Home, About } from "./components"
 
 const App = () => {
   return (
     <BrowserRouter>
       <Navbar />
       <Home />
+      <About />
     </BrowserRouter>
   )
 }
