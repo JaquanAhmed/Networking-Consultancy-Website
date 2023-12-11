@@ -9,7 +9,7 @@ export {
   Navbar,
   Home,
   About,
-  // Expertise,
-  // Contact,
-  // Footer
+  Expertise,
+  Contact,
+  Footer
 }

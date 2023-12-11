@@ -1,5 +1,5 @@
 const About = () => (
-    <div className="bg-secondary w-max h-max">
+    <div className="h-screen bg-tertiary">
 
     </div>
 )
