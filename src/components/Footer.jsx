@@ -1,5 +1,5 @@
 const Footer = () => (
-    <div className="h-screen bg-primary">
+    <div className="h-40 bg-primary">
 
     </div>
 )

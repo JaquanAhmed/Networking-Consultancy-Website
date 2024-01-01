@@ -1,5 +1,16 @@
+import Navbar from "./Navbar";
+
+
 const Home = () => (
-    <div className="h-screen bg-primary">
+    <div className="bg-gradient-to-t from-primary to-[#27D89F] ">
+        <div className="bg-[url('src/assets/globe.svg')] h-screen w-full bg-cover bg-center">
+            < Navbar />
+        </div>
+        <h1>Network Consultants</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
     </div>
 )
